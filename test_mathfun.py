@@ -1,4 +1,4 @@
-from mathfun import *
+from mathfun import add, multiply, power
 import unittest
 
 class TestStringMethods(unittest.TestCase):
